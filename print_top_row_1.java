@@ -1,4 +1,5 @@
 //package twod_array;
+//given a matrix of N*N print its top row
 import java.util.*;
 
 public class print_top_row_1 {
